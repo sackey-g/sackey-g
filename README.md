@@ -12,6 +12,11 @@
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sackey-g&theme=nord_bright) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sackey-g&theme=default) 
 
+![sackey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sackey-g&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sackey-g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<p>（ ＾ω＾）おっよろしくおねがいします</p>
+<p>github初心者です🤔💦💦</p>
