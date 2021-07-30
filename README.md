@@ -12,4 +12,6 @@
   </a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sackey-g&theme=vue) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sackey-g&theme=nord_bright) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sackey-g&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
